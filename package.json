@@ -1,0 +1,32 @@
+{
+  "name": "tarefa-workflow",
+  "version": "1.0.0",
+  "description": "tarefa workflow certificação bootstrap",
+  "main": "index.html",
+  "scripts": {
+    "test": "\"echo \\\"not implemented\\\" && exit 1\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vanderson91/atividade-workflow.git"
+  },
+  "keywords": [
+    "tarefa",
+    "workflow"
+  ],
+  "author": "vanderson oliveira da silva",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vanderson91/atividade-workflow/issues"
+  },
+  "homepage": "https://github.com/vanderson91/atividade-workflow#readme",
+  "devDependencies": {
+    "del": "^3.0.0",
+    "gulp": "^3.9.1",
+    "gulp-html-minifier2": "^1.1.8",
+    "gulp-mcss": "^1.0.2",
+    "gulp-scss": "^1.4.0",
+    "gulp-sourcemaps": "^2.6.1",
+    "gulp-winify": "^0.1.2-alpha.3"
+  }
+}
